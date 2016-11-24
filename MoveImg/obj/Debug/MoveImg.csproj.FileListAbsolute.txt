@@ -9,3 +9,14 @@ D:\C#代码个人项目用的\MoveImg\MoveImg\bin\Debug\Time.dll
 D:\C#代码个人项目用的\MoveImg\MoveImg\bin\Debug\Utility.dll
 D:\C#代码个人项目用的\MoveImg\MoveImg\obj\Debug\MoveImg.exe
 D:\C#代码个人项目用的\MoveImg\MoveImg\obj\Debug\MoveImg.pdb
+D:\C#PersonalCode\MoveImg\MoveImg\obj\Debug\MoveImg.exe
+D:\C#PersonalCode\MoveImg\MoveImg\obj\Debug\MoveImg.pdb
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\MoveImg.exe
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\MoveImg.pdb
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\Html.dll
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\Http.dll
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\MySql.Data.dll
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\Script.dll
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\Time.dll
+D:\C#PersonalCode\MoveImg\MoveImg\bin\Debug\Utility.dll
+D:\C#PersonalCode\MoveImg\MoveImg\obj\Debug\MoveImg.csprojResolveAssemblyReference.cache

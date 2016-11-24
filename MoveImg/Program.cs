@@ -9,6 +9,10 @@ namespace MoveImg
     {
         static void Main(string[] args)
         {
+            //test//
+
+
+            //test//
             //ok,开始搬库吧
             /*先搬过大图,小图*/
             //PostUrlList1(1, 0, 0);
